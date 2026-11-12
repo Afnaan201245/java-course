@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "InteractiveCalculator",
+            "request": "launch",
+            "mainClass": "week2.InteractiveCalculator",
+            "projectName": "java-course_1064f1b7"
+        },
+        {
+            "type": "java",
+            "name": "TypeConversion",
+            "request": "launch",
+            "mainClass": "week2.TypeConversion",
+            "projectName": "java-course_1064f1b7"
+        },
+        {
+            "type": "java",
+            "name": "OperatorsDemo",
+            "request": "launch",
+            "mainClass": "week2.OperatorsDemo",
+            "projectName": "java-course_1064f1b7"
+        },
+        {
+            "type": "java",
+            "name": "DataTypesDemo",
+            "request": "launch",
+            "mainClass": "week2.DataTypesDemo",
+            "projectName": "java-course_1064f1b7"
+        },
+        {
+            "type": "java",
             "name": "JavaInfo",
             "request": "launch",
             "mainClass": "week1.JavaInfo",
