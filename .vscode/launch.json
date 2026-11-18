@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FixedConditional",
+            "request": "launch",
+            "mainClass": "week3.FixedConditional",
+            "projectName": "java-course_1064f1b7"
+        },
+        {
+            "type": "java",
+            "name": "FaultyConditional",
+            "request": "launch",
+            "mainClass": "week3.FaultyConditional",
+            "projectName": "java-course_1064f1b7"
+        },
+        {
+            "type": "java",
+            "name": "DaySwitch",
+            "request": "launch",
+            "mainClass": "week3.DaySwitch",
+            "projectName": "java-course_1064f1b7"
+        },
+        {
+            "type": "java",
+            "name": "DayIfElse",
+            "request": "launch",
+            "mainClass": "week3.DayIfElse",
+            "projectName": "java-course_1064f1b7"
+        },
+        {
+            "type": "java",
+            "name": "BooleanAnalysis",
+            "request": "launch",
+            "mainClass": "week3.BooleanAnalysis",
+            "projectName": "java-course_1064f1b7"
+        },
+        {
+            "type": "java",
+            "name": "TernaryDemo",
+            "request": "launch",
+            "mainClass": "week3.TernaryDemo",
+            "projectName": "java-course_1064f1b7"
+        },
+        {
+            "type": "java",
+            "name": "MpesaMenu",
+            "request": "launch",
+            "mainClass": "week3.MpesaMenu",
+            "projectName": "java-course_1064f1b7"
+        },
+        {
+            "type": "java",
+            "name": "StudentGrade",
+            "request": "launch",
+            "mainClass": "week3.StudentGrade",
+            "projectName": "java-course_1064f1b7"
+        },
+        {
+            "type": "java",
+            "name": "PositiveNegativeZero",
+            "request": "launch",
+            "mainClass": "week3.PositiveNegativeZero",
+            "projectName": "java-course_1064f1b7"
+        },
+        {
+            "type": "java",
+            "name": "PositiveNegativeZero",
+            "request": "launch",
+            "mainClass": "PositiveNegativeZero",
+            "projectName": "java-course_1064f1b7"
+        },
+        {
+            "type": "java",
             "name": "InteractiveCalculator",
             "request": "launch",
             "mainClass": "week2.InteractiveCalculator",
