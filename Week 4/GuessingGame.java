@@ -41,3 +41,4 @@ public class GuessingGame {
 		scanner.close();
 	}
 }
+
