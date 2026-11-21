@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FixedLoops",
+            "request": "launch",
+            "mainClass": "FixedLoops",
+            "projectName": "java-course_1064f1b7"
+        },
+        {
+            "type": "java",
+            "name": "InfiniteLoopDebug",
+            "request": "launch",
+            "mainClass": "InfiniteLoopDebug",
+            "projectName": "java-course_1064f1b7"
+        },
+        {
+            "type": "java",
+            "name": "LoopEfficiency",
+            "request": "launch",
+            "mainClass": "LoopEfficiency",
+            "projectName": "java-course_1064f1b7"
+        },
+        {
+            "type": "java",
+            "name": "PatternGenerator",
+            "request": "launch",
+            "mainClass": "PatternGenerator",
+            "projectName": "java-course_1064f1b7"
+        },
+        {
+            "type": "java",
+            "name": "ForLoopDemo",
+            "request": "launch",
+            "mainClass": "ForLoopDemo",
+            "projectName": "java-course_1064f1b7"
+        },
+        {
+            "type": "java",
+            "name": "MenuSystem",
+            "request": "launch",
+            "mainClass": "MenuSystem",
+            "projectName": "java-course_1064f1b7"
+        },
+        {
+            "type": "java",
+            "name": "GuessingGame",
+            "request": "launch",
+            "mainClass": "GuessingGame",
+            "projectName": "java-course_1064f1b7"
+        },
+        {
+            "type": "java",
             "name": "FixedConditional",
             "request": "launch",
             "mainClass": "week3.FixedConditional",
