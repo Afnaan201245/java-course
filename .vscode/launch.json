@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StudentRoster",
+            "request": "launch",
+            "mainClass": "week5.StudentRoster",
+            "projectName": "java-course_1064f1b7"
+        },
+        {
+            "type": "java",
+            "name": "FixedArrays",
+            "request": "launch",
+            "mainClass": "week5.FixedArrays",
+            "projectName": "java-course_1064f1b7"
+        },
+        {
+            "type": "java",
+            "name": "ArrayIndexDebug",
+            "request": "launch",
+            "mainClass": "week5.ArrayIndexDebug",
+            "projectName": "java-course_1064f1b7"
+        },
+        {
+            "type": "java",
+            "name": "ArrayVsArrayList",
+            "request": "launch",
+            "mainClass": "week5.ArrayVsArrayList",
+            "projectName": "java-course_1064f1b7"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListBasics",
+            "request": "launch",
+            "mainClass": "week5.ArrayListBasics",
+            "projectName": "java-course_1064f1b7"
+        },
+        {
+            "type": "java",
+            "name": "MatrixDemo",
+            "request": "launch",
+            "mainClass": "week5.MatrixDemo",
+            "projectName": "java-course_1064f1b7"
+        },
+        {
+            "type": "java",
+            "name": "ArrayAlgorithms",
+            "request": "launch",
+            "mainClass": "week5.ArrayAlgorithms",
+            "projectName": "java-course_1064f1b7"
+        },
+        {
+            "type": "java",
+            "name": "ArrayBasics",
+            "request": "launch",
+            "mainClass": "week5.ArrayBasics",
+            "projectName": "java-course_1064f1b7"
+        },
+        {
+            "type": "java",
             "name": "FixedLoops",
             "request": "launch",
             "mainClass": "FixedLoops",
