@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BankTest",
+            "request": "launch",
+            "mainClass": "week6.BankTest",
+            "projectName": "java-course_1064f1b7"
+        },
+        {
+            "type": "java",
+            "name": "EmployeeTest",
+            "request": "launch",
+            "mainClass": "week6.EmployeeTest",
+            "projectName": "java-course_1064f1b7"
+        },
+        {
+            "type": "java",
+            "name": "BookTest",
+            "request": "launch",
+            "mainClass": "week6.BookTest",
+            "projectName": "java-course_1064f1b7"
+        },
+        {
+            "type": "java",
+            "name": "EncapsulationDemo",
+            "request": "launch",
+            "mainClass": "week6.EncapsulationDemo",
+            "projectName": "java-course_1064f1b7"
+        },
+        {
+            "type": "java",
             "name": "StudentRoster",
             "request": "launch",
             "mainClass": "week5.StudentRoster",
