@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DataProcessor",
+            "request": "launch",
+            "mainClass": "week10.DataProcessor",
+            "projectName": "java-course_1064f1b7"
+        },
+        {
+            "type": "java",
+            "name": "FileReadDemo",
+            "request": "launch",
+            "mainClass": "week10.FileReadDemo",
+            "projectName": "java-course_1064f1b7"
+        },
+        {
+            "type": "java",
+            "name": "FileWriteDemo",
+            "request": "launch",
+            "mainClass": "week10.FileWriteDemo",
+            "projectName": "java-course_1064f1b7"
+        },
+        {
+            "type": "java",
+            "name": "CollectionsDemo",
+            "request": "launch",
+            "mainClass": "week10.CollectionsDemo",
+            "projectName": "java-course_1064f1b7"
+        },
+        {
+            "type": "java",
             "name": "BankAccount",
             "request": "launch",
             "mainClass": "week9.BankAccount",
