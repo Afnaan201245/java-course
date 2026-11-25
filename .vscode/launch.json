@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BankAccount",
+            "request": "launch",
+            "mainClass": "week9.BankAccount",
+            "projectName": "java-course_1064f1b7"
+        },
+        {
+            "type": "java",
+            "name": "ExceptionHandlingDemo",
+            "request": "launch",
+            "mainClass": "week9.ExceptionHandlingDemo",
+            "projectName": "java-course_1064f1b7"
+        },
+        {
+            "type": "java",
+            "name": "Smartphone",
+            "request": "launch",
+            "mainClass": "week9.Smartphone",
+            "projectName": "java-course_1064f1b7"
+        },
+        {
+            "type": "java",
+            "name": "Bird",
+            "request": "launch",
+            "mainClass": "week9.Bird",
+            "projectName": "java-course_1064f1b7"
+        },
+        {
+            "type": "java",
             "name": "CardPayment",
             "request": "launch",
             "mainClass": "week8.CardPayment",
