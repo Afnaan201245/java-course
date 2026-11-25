@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CardPayment",
+            "request": "launch",
+            "mainClass": "week8.CardPayment",
+            "projectName": "java-course_1064f1b7"
+        },
+        {
+            "type": "java",
+            "name": "Bike",
+            "request": "launch",
+            "mainClass": "week8.Bike",
+            "projectName": "java-course_1064f1b7"
+        },
+        {
+            "type": "java",
+            "name": "Rectangle",
+            "request": "launch",
+            "mainClass": "week8.Rectangle",
+            "projectName": "java-course_1064f1b7"
+        },
+        {
+            "type": "java",
+            "name": "Cow",
+            "request": "launch",
+            "mainClass": "week8.Cow",
+            "projectName": "java-course_1064f1b7"
+        },
+        {
+            "type": "java",
             "name": "Rectangle",
             "request": "launch",
             "mainClass": "week7.Rectangle",
